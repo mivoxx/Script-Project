@@ -1,7 +1,7 @@
 #!/bin/bash
 # This code is written by Mina Vosoughi
-# Exercise 7 : Write a program that reads a file, pings one by one from within a file# containing the list of destination IPs, and saves the result in a log file on the
-# same day with the hostname of that machine.
+# Exercise 7 : Write a program that reads a file, pings one by one from within a file# containing the list of destination IPs, and saves the result
+# in a log file on the same day with the hostname of that machine.
 
 
 IP_LIST=/home/mina/ip_lists.txt

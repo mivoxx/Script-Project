@@ -1,7 +1,7 @@
 #!/bin/bash
 # This code is written by Mina Vosoughi
-# Exercise 3 : Write a program that has the IP of a server and its User/Pass in front# of the script name and if it is pingable, sends its /etc/passwd file to /home/user # path of that server, otherwise a message displayed that the server is not
-# accessible.
+# Exercise 3 : Write a program that has the IP of a server and its User/Pass in front of the script name and if it is pingable, 
+sends its /etc/passwd file to /home/user path of that server, otherwise a message displayed that the server is not accessible.
 
 
 IP=$1

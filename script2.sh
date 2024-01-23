@@ -1,7 +1,7 @@
 #!/bin/bash
 # This code is written by Mina Vosoughi
-# Exercise 2 : Write a program that takes 20 numbers from the input, compares them, 
-# and states which number is the largest and smalles, also calcutes Avg and Sum.
+# Exercise 2 : Write a program that takes 20 numbers from the input, compares them, and states which number is the largest and smalles, also
+# calcutes Avg and Sum.
 
 
 SUM=0

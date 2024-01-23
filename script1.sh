@@ -1,6 +1,6 @@
 #!/bin/bash
 # This code is written by Mina Vosoughi
-# Exercise 1 : Write a program that takes a number from the input, compares it to 10,# and returns a message for each of the 3 modes (larger, equal, and smaller).
+# Exercise 1 : Write a program that takes a number from the input, compares it to 10, and returns a message for each of the 3 modes (larger, equal, and smaller).
 
 
 while [ -z $var1 ]

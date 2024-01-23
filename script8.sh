@@ -1,8 +1,7 @@
 #!/bin/bash
 # This code is written by Mina Vosoughi
-# Exercise 8 : Wrtie a script that get an IP from input, ping it and tell us it is 
-# reachable or not reachable but we need an IP validation to check the input is a 
-# valid IP or not.
+# Exercise 8 : Wrtie a script that get an IP from input, ping it and tell us it is reachable or not reachable but we need an IP validation to
+# check the input is a valid IP or not.
 
 
 read -p "Please enter an IP address: " IP

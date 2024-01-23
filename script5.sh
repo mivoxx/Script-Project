@@ -1,8 +1,7 @@
 #!/bin/bash
 # This code is written by Mina Vosoughi
-# Exercise 5 : Write a program that saves the first and third fields of the 
-# /etc/passwd file every day in a file with the same date and does not hold it for 
-# more than two days.
+# Exercise 5 : Write a program that saves the first and third fields of the /etc/passwd file every day in a file with the same date and 
+# does not hold it for more than two days.
 
 
 while true 
